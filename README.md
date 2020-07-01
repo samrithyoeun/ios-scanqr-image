@@ -1,0 +1,1 @@
+# ios-scanqr-image
